@@ -1,0 +1,29 @@
+{
+  "name": "hotmart-cast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbueno2/hotmart-cast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizbueno2/hotmart-cast/issues"
+  },
+  "homepage": "https://github.com/luizbueno2/hotmart-cast#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "npm": "^6.0.1",
+    "phantomjs-prebuilt": "^2.1.16",
+    "requirejs": "^2.3.5"
+  },
+  "devDependencies": {
+    "webpack": "^4.8.3"
+  }
+}
